@@ -32,3 +32,29 @@ Developed an Excel-based reporting platform using:
 - Interactive Dashboard Components
 
 The solution consolidates sales information from multiple financial years into a single reporting environment.
+
+
+## Key Features
+
+### Dashboard Reporting
+- Financial Year-wise sales analysis
+- Zone-wise sales monitoring
+- Model-level distribution tracking
+- Dealer performance visibility
+
+### Invoice Search Engine
+- Search using Invoice Number
+- Auto-fetch associated sales information
+
+### Chassis Search Engine
+- Search using Chassis Number
+- Retrieve customer and invoice details
+
+### Sales Analytics
+- Zone-wise distribution analysis
+- Dealer-level reporting
+- Model-wise performance tracking
+
+### Data Consolidation
+- Unified reporting across multiple financial years
+- Centralized sales repository
