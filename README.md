@@ -20,7 +20,7 @@ The business required:
 - Dealer-level tracking
 - Faster management reporting
 
-  ## Solution
+ ## Solution
 
 Developed an Excel-based reporting platform using:
 
