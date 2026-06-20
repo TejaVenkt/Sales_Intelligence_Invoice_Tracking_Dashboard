@@ -1,2 +1,2 @@
 # sales-automation-reporting-dashboard
-Power BI dashboard automating sales reconciliation and financial reporting using DAX and Power Query.
+Excel-based Sales Report Tracker for monitoring sales performance, invoice tracking, and business KPIs.
